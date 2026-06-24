@@ -123,7 +123,6 @@ class GetData():
         self._stat_cancer(drug_cell_df)
         drug_cell_df = self._filter_pair(drug_cell_df)
 
-        drug_cell_df = drug_cell_df.head(10000)
         self._stat_drug(drug_cell_df)
         self._stat_cell(drug_cell_df)
         self._stat_cancer(drug_cell_df)
