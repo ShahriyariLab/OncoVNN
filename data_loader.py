@@ -14,7 +14,7 @@ class GetData():
     def __init__(self):
         PATH = 'GDSC_data'
 
-        rnafile = PATH + '/filtered_gene_expression.txt'
+        rnafile = PATH + '/gene_expression.txt'
         smilefile = PATH + '/smile_inchi.csv'
         pairfile = PATH + '/GDSC2_fitted_dose_response_25Feb20.xlsx'
         drug_infofile = PATH + "/Drug_listTue_Aug10_2021.csv"
