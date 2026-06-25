@@ -2,9 +2,6 @@
 
 **OncoVNN: Interpretable Mapping of Gene–Drug and Pathway–Drug Interactions in Cancer**
 
-Ankit Kumar, Leili Shahriyari  
-Department of Mathematics and Statistics, University of Massachusetts Amherst
-
 ---
 
 ## Overview
