@@ -57,7 +57,7 @@ The following files are **not included** in this repository due to their size. D
 ## Installation
 
 ```bash
-git clone https://github.com/ShahriyariLab/OncoVNN.git
+git clone [repository link]
 cd OncoVNN
 pip install -r requirements.txt
 ```
