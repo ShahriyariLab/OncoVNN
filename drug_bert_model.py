@@ -2,7 +2,6 @@
 """
 Created on Fri Sep  2 16:28:23 2022
 
-@author: toxicant
 """
 from transformers import BertModel, BertTokenizer, AutoTokenizer, AutoModel
 import numpy as np
